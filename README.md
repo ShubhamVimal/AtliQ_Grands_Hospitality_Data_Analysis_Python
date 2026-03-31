@@ -34,6 +34,23 @@ The company has been facing a decline in market share and revenue. This project 
 
 ---
 
+## 📸 Sample Visualizations
+
+### 🔹 Bookings by Platform
+![Bookings by Platform](images/bookings_by_platform.png)
+
+---
+
+### 🔹 Hotels by City
+![Hotels by City](images/no_of_hotels_by_city.png)
+
+---
+
+### 🔹 Revenue Share by Booking Platform
+![Revenue Share](images/revenue_share_by_booking_platform.png)
+
+---
+
 ## 🛠️ Tools Used
 - Python  
 - Pandas  
