@@ -17,20 +17,20 @@ The company has been facing a decline in market share and revenue. This project 
 ---
 
 ## 🔍 What This Project Covers
-- 🧹 Data cleaning and preparation  
-- ⚠️ Handling missing values and outliers  
-- 🔄 Data transformation  
-- ❓ Question-based analysis  
-- 💡 Insight generation  
+- Cleaned booking data by handling missing values, duplicates, and outliers.
+- Performed exploratory data analysis (EDA) using Pandas.
+- Analyzed occupancy, revenue, booking platforms, room categories, and city-wise hotel performance.
+- Created visualizations to identify booking trends and revenue distribution.
+- Generated business insights to support operational and pricing decisions.
 
 ---
 
 ## 📊 Key Insights
-- 📈 Occupancy varies across room categories and cities  
-- 🌆 Some cities consistently perform better  
-- 📅 Weekend and weekday booking patterns differ  
-- 💰 Revenue shows clear monthly trends  
-- 🌐 Booking platforms contribute differently to revenue  
+- Occupancy varies across room categories and cities  
+- Some cities consistently perform better  
+- Weekend and weekday booking patterns differ  
+- Revenue shows clear monthly trends  
+- Booking platforms contribute differently to revenue  
 
 ---
 
